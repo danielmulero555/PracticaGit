@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa>
+    <nombre>TECNOMUR S.L.</nombre>
+    <empleados>
+        <empleado>
+            <dni>12345678C</dni>
+            <nombre>Carlos Pérez Ruíz</nombre>
+            <edad>29</edad>
+        </empleado>
+        <empleado>
+            <dni>87654321C</dni>
+            <nombre>Claudia Ortiz Zaldo</nombre>
+            <edad>31</edad>
+        </empleado>
+        <empleado>
+            <dni>11134566G</dni>
+            <nombre>José Antonio Mártínez</nombre>
+            <edad>45</edad>
+        </empleado>
+    </empleados>
+</empresa>

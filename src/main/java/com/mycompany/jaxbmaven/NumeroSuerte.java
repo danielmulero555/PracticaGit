@@ -6,7 +6,7 @@ package com.mycompany.jaxbmaven;
 
 
 public class NumeroSuerte {
-    
+    //numerodelasuerte
        public boolean esNumeroDeLaSuerte(int numero) {
          if (numero <= 0 || numero > 1000) {
             throw new IllegalArgumentException("El número debe estar entre 1 y 1000");
